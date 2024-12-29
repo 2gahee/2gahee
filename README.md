@@ -2,7 +2,7 @@
 
 다양한 기술 스택을 다루고 있으며, 웹 개발과 **GIS** 관련 프로젝트에 열정을 가지고 있습니다.
 
-## 🔧 Tech Stack 
+##  Tech Stack 🔧
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,12 +21,10 @@
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-2F4F4F?style=flat&logo=esri&logoColor=white)
 
 
-## 🎓 Education & Activity 
+##  Education & Activity 🎓
 - **인하대학교 공간정보공학과 졸업** (2020.03 ~ 2024.08)
 - **인하대학교 멋쟁이사자처럼 11기** (2023.03 - 2023.12)
 - **삼성 청년 SW 아카데미 12기** (2024.07 - 현재)
 
-## 📬 Contact 
+##  Contact 📬 
 - Email: lgh7956@gmail.com
-
-![Welcome Banner](https://media.giphy.com/media/3o7aD2eRfOShVpUPRu/giphy.gif)
