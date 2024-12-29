@@ -1,25 +1,4 @@
-<div style="font-size: 2em; font-weight: bold; text-align: center;">
-  <span style="color: #FF66B2; animation: pulse 1.5s infinite;">
-    Welcome to Gahee's GitHub
-  </span>
-</div>
-
-<style>
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-      opacity: 1;
-    }
-    50% {
-      transform: scale(1.1);
-      opacity: 0.8;
-    }
-    100% {
-      transform: scale(1);
-      opacity: 1;
-    }
-  }
-</style>
+# Lee Gahee 
 
 다양한 기술 스택을 다루고 있으며, 웹 개발과 **GIS** 관련 프로젝트에 열정을 가지고 있습니다.
 
