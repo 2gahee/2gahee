@@ -21,10 +21,5 @@
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-2F4F4F?style=flat&logo=esri&logoColor=white)
 
 
-##  Education & Activity 🎓
-- **인하대학교 공간정보공학과 졸업** (2020.03 ~ 2024.08)
-- **인하대학교 멋쟁이사자처럼 11기 수료** (2023.03 - 2023.12)
-- **삼성 청년 SW 아카데미 12기** (2024.07 - 현재)
-
 ##  Contact 📬 
 - Email: lgh7956@gmail.com
